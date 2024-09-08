@@ -1,0 +1,12 @@
+names:
+- tennis ball
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: tennis-ball-s2ohn
+  url: https://universe.roboflow.com/proracket/tennis-ball-s2ohn/dataset/1
+  version: 1
+  workspace: proracket
+test: ../test/images
+train: tennis-ball-1/train/images
+val: tennis-ball-1/valid/images

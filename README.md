@@ -21,3 +21,5 @@ This is my self-learning project that analyzes Tennis players in a video to meas
 * pandas
 * numpy 
 * opencv
+
+# Inspired from Code In a Jiffy
